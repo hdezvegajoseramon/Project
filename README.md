@@ -1,2 +1,2 @@
 ### This is the help of my project uploaded to git...
-In this doc you will understan what I do whit NodeJS... Remenber I still learning... LOL 
+In this doc you will understand what I do whit NodeJS... Remember I still learning... LOL 
